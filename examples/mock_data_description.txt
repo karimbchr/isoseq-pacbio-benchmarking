@@ -1,0 +1,1 @@
+This repo uses mock data only. Replace with your own FASTA/BAM locally.
